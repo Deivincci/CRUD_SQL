@@ -1,3 +1,7 @@
+Antes de comenzar,es importante mencionar que el archivo Ejerciciosderepaso.docx contiene la documentacion sobre lo que se pide en el ejercicio,lo subo tambien por si alguien quiere intentarlo,
+en ese documento encontrara los pasos correctos para desarrollarlo,y ademas he subido lo que se podria decir la solucion.
+
+
 Aplicación CRUD con API REST (Node.js + PostgreSQL)
 Descripción
 API REST que gestiona usuarios en una base de datos PostgreSQL. Este proyecto simula una aplicación de gestión de usuarios para una empresa, permitiendo realizar operaciones CRUD (Crear, Leer, Actualizar, Eliminar) sobre los registros de los empleados.
