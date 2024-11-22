@@ -53,12 +53,13 @@ Cómo Ejecutar el Proyecto
 Clona el repositorio en tu máquina local:
 
 
-git clone https://github.com/Deivincci/mi-proyecto-crud.git
+git clone https://github.com/Deivincci/crud-sql.git
 cd mi-proyecto-crud
 Instala las dependencias necesarias:
 
 
-npm install
+npm install (esto generara la carpeta node_modules faltante)
+
 Crea un archivo .env en la raíz del proyecto con los siguientes valores (configuración de PostgreSQL):
 
 
@@ -69,6 +70,9 @@ DB_NAME=usuarios_db
 Inicia el servidor:
 
 
-npm start
+node server.js
+
 Prueba los endpoints utilizando Postman o cualquier cliente REST.
+
+
 
